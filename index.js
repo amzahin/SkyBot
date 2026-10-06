@@ -19,10 +19,11 @@ const quotesCommands = require('./commands/quotes');
 const funCommands = require('./commands/fun');
 const truthdareCommands = require('./commands/truthdare');
 
-const OWNER_NUMBERS = [
-  '60123456789@s.whatsapp.net',
-  '189443155689569@lid'
-];
+require('dotenv').config();
+
+const OWNER_NUMBERS = process.env.OWNER_NUMBERS 
+  ? process.env.OWNER_NUMBERS.split(',') 
+  : [];
 
 function isOwner(senderId, db) {
   if (!senderId) return false;
