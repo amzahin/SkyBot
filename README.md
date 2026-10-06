@@ -44,7 +44,7 @@ Kod sumber disediakan untuk transparensi dan pembelajaran.
 
 Penggunaan komersial, penyalinan atau pengedaran semula memerlukan kebenaran daripada pembangun.
 
-📲 Hubungi: [WhatsApp Saya](https://wa.me/601168436081?text=%F0%9F%91%8B%F0%9F%8F%BB%20Hai%21%20%F0%9F%93%A9%20Boleh%20saya%20tanya%20beberapa%20soalan%20tentang%20SkyBot%3F%20%F0%9F%A4%96)
+📲 Hubungi: [WhatsApp Saya](https://wa.me/601168436081?text=Hai%21%20%F0%9F%91%8B%F0%9F%8F%BB%20Boleh%20saya%20tanya%20beberapa%20soalan%20tentang%20SkyBot%3F%F0%9F%A4%96)
 📢 Saluran: [SkyBot Official Channel](https://whatsapp.com/channel/0029Vb8m9M48KMqlM3Kpm007)
 
 SkyBot — Mudahkan Pengurusan Group Anda. 🤖
