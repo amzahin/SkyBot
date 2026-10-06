@@ -1,22 +1,6 @@
-# JSON files (data files)
-*.json
-
-# Node modules
 node_modules/
-
-# Auth info (private)
-auth_info/
-
-# Environment variables
+auth_info_baileys/
+session/
 .env
-.env.local
-
-# Development tools
-.qodo/
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# Logs
+database.json
 *.log
