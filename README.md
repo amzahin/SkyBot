@@ -1,54 +1,49 @@
-# SkyBot
+SkyBot
+
 🤖 SkyBot
 
-SkyBot ialah bot WhatsApp berbahasa Melayu yang dibangunkan untuk membantu memudahkan pengurusan group.
+SkyBot ialah bot WhatsApp berbahasa Melayu untuk memudahkan pengurusan group.
 
 🚧 Status: Masih dalam pembangunan
 
 ✨ Ciri Utama
 
-🇲🇾 Menggunakan Bahasa Melayu
-
-👥 Fokus kepada pengurusan group
-
-⚡ Dibangunkan menggunakan Node.js
-
-🔗 Menggunakan Baileys
-
-⚙️ Direka supaya fleksibel dan mudah dikembangkan
-
-💎 Ciri Premium akan membolehkan pengguna menyesuaikan kandungan bot
+🇲🇾 Bahasa Melayu
+👥 Pengurusan group
+⚡ Node.js
+🔗 Baileys
+⚙️ Fleksibel dan mudah dikembangkan
+💎 Ciri Premium untuk menyesuaikan kandungan bot
 
 💎 Premium
 
-Pada masa akan datang, pengguna Premium akan dapat menyesuaikan pelbagai kandungan dalam bot seperti:
+Pengguna Premium boleh menyesuaikan:
 
-Nama bot
-
-Mesej balasan
-
-Menu
-
-Command
-
-Kandungan lain yang disokong
+- 🤖 Nama bot
+- 💬 Mesej balasan
+- 📋 Menu
+- ⚙️ Command
+- 🎨 Kandungan lain yang disokong
 
 Lebih banyak ciri Premium akan ditambah dari semasa ke semasa.
 
 🚧 Pembangunan
 
-SkyBot masih dalam peringkat pembangunan. Fungsi baharu, penambahbaikan dan pembaikan bug akan ditambah secara berperingkat.
+SkyBot masih dalam pembangunan. Fungsi baharu, penambahbaikan dan pembaikan bug akan ditambah secara berperingkat.
 
 🛠️ Teknologi
 
 Node.js
-
 Baileys
-
 WhatsApp
 
-📌 Nota
+📌 Nota Lesen
 
-SkyBot bukan projek open source. Kod dan sistem bot adalah milik pembangun dan tidak boleh diedarkan atau digunakan semula tanpa kebenaran.
+SkyBot ialah projek Source-Available.
+Kod sumber disediakan untuk transparensi dan pembelajaran.
+
+Penggunaan komersial, penyalinan atau pengedaran semula memerlukan kebenaran daripada pembangun.
+
+Hubungi: [https://wa.me/601168436081?text=%F0%9F%91%8B%F0%9F%8F%BB%20Hai%21%20%F0%9F%93%A9%20Boleh%20saya%20tanya%20beberapa%20soalan%20tentang%20SkyBot%3F%20%F0%9F%A4%96]
 
 SkyBot — Mudahkan Pengurusan Group Anda. 🤖
