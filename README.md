@@ -1,2 +1,2 @@
 # SkyBot
-Bot whatsapp versi bahasa Melayu 
+SkyBot ialah bot WhatsApp berbahasa Melayu untuk membantu pengurusan group, dibangunkan menggunakan Node.js dan Baileys. 🚀 
