@@ -1,0 +1,22 @@
+# JSON files (data files)
+*.json
+
+# Node modules
+node_modules/
+
+# Auth info (private)
+auth_info/
+
+# Environment variables
+.env
+.env.local
+
+# Development tools
+.qodo/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
