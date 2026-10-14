@@ -18,6 +18,8 @@ const gameCommands = require('./commands/game');
 const quotesCommands = require('./commands/quotes');
 const funCommands = require('./commands/fun');
 const truthdareCommands = require('./commands/truthdare');
+const { suggest } = require('./suggest');
+const { askAI } = require('./ai');
 
 require('dotenv').config();
 
